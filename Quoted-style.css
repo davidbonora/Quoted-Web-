@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,500);
+body {
+  display: fixed;
+  align-items: center;
+  background-image: url("http://www.digitalrevolutions.biz/wp-content/uploads/2009/07/red_line_background.jpg");
+  background-color: #000;
+  color: #000;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 250px;
+}
+
+.quotedbox {
+  text-align: center;
+  background-color: #eee;
+  margin: 20 auto 0 auto;
+  height: 500px;
+  width: 900px;
+  opacity: 0.6;
+}
+
+.quote-phrase {
+
+}
+
+.buttons {
+
+}
